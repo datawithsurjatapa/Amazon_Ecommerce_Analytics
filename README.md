@@ -162,22 +162,22 @@ Amazon-E-Commerce-Analytics/
 │
 ├── dashboard-screenshots/
 │   ├── executive-overview.png
-│   ├── customers-orders Insight.png
+│   ├── customers-orders.png
 │   └── product-seller.png
 │
 ├── Amazon_E-commerce_Analytics(data quality checking).ipynb
 ├── Amazon_E-commerce_Analytics_Dashboard.pdf
 ├── Amazon_E-commerce_Analytics_SQL.sql
-└── README.md```
-
+└── README.md
+```
 ```text
 📦 GitHub Releases
 ├── Raw Dataset
 │   └── Original Amazon e-commerce dataset
 │
 └── Clean Dataset
-    └── Cleaned Dataset Used for Analysis```
-
+    └── Cleaned Dataset Used for Analysis
+```
 ---
 
 ## 👨‍💻 Author
@@ -185,6 +185,7 @@ Amazon-E-Commerce-Analytics/
 **Surjatapa Mukherjee**
 
 Aspiring Data Analyst | Advanced Excel | SQL | Power BI | Python
+
 ---
 ## 🤝 Support
 
