@@ -101,7 +101,7 @@ Provides a high-level view of overall e-commerce performance through key busines
 
 **Key Areas:**
 
-Revenue, Orders, Average Order Value, Unique Customers, Revenue Trends, Category Performance, Location, and Payment Methods.
+Revenue, Orders, Average Order Value,Revenue Trends, Category Performance, Location, and Payment Methods.
 
 ![Executive Overview](screenshots/executive-overview.png)
 
@@ -173,7 +173,7 @@ Amazon-E-Commerce-Analytics/
 ```text
 📦 GitHub Releases
 ├── Raw Dataset
-│   └── Original Amazon e-commerce dataset
+│   └── Original Amazon E-commerce dataset
 │
 └── Clean Dataset
     └── Cleaned Dataset Used for Analysis
