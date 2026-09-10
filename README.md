@@ -103,7 +103,7 @@ Provides a high-level view of overall e-commerce performance through key busines
 
 Revenue, Orders, Average Order Value, Unique Customers, Revenue Trends, Category Performance, Location, and Payment Methods.
 
-![Executive Overview](screenshots/"C:\Users\user\Downloads\IMAGES\executive-overview.png")
+![Executive Overview](screenshots/executive-overview.png)
 
 ---
 
@@ -127,7 +127,7 @@ Evaluates product, category, brand, and seller performance to identify major rev
 
 Product Revenue, Seller Revenue, Brand Performance, Product Ratings, Seller Return Rate, and Category Discounts.
 
-![Product & Seller Performance](screenshots/product-seller-performance.png)
+![Product & Seller Performance](screenshots/product-seller.png)
 
 ---
 
@@ -160,17 +160,24 @@ Average Rating by Category, Top 10 Products by Review Count, and Product Rating 
 ```text
 Amazon-E-Commerce-Analytics/
 │
+├── dashboard-screenshots/
+│   ├── executive-overview.png
+│   ├── customers-orders Insight.png
+│   └── product-seller.png
+│
 ├── Amazon_E-commerce_Analytics(data quality checking).ipynb
 ├── Amazon_E-commerce_Analytics_Dashboard.pdf
 ├── Amazon_E-commerce_Analytics_SQL.sql
-└── README.md
+└── README.md```
 
+```text
 📦 GitHub Releases
 ├── Raw Dataset
 │   └── Original Amazon e-commerce dataset
 │
 └── Clean Dataset
     └── Cleaned Dataset Used for Analysis```
+
 ---
 
 ## 👨‍💻 Author
@@ -178,7 +185,7 @@ Amazon-E-Commerce-Analytics/
 **Surjatapa Mukherjee**
 
 Aspiring Data Analyst | Advanced Excel | SQL | Power BI | Python
-
+---
 ## 🤝 Support
 
 If you find this project useful, please consider giving the repository a ⭐ **Star**.
